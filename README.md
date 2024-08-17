@@ -28,6 +28,7 @@ This project is a cafeteria management system with both user and admin views. Us
 
 1. **Clone the Repository**
    ```sh
-   git clone  https://github.com/ABDULLAHTALLAT/cafetria.git
-   cd CAFETRIA
+   git clone  https://github.com/ABDULLAHTALLAT/COFE
+   .git
+   cd COFE
 
